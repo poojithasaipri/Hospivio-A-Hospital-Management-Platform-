@@ -1,1 +1,12 @@
-/node_modules
+# Dependency folders
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# IDE/editor junk
+.vscode/
+.DS_Store
