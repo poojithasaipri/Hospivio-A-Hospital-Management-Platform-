@@ -9,4 +9,4 @@ Hospivio is a complete hospital management system designed to streamline patient
 - **Database**: MongoDB
 - **Admin Panel**: React or HTML (based on setup)
 
-## 📂 Project Structure
+
