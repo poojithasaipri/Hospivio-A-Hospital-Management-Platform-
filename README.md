@@ -1,4 +1,4 @@
-# 🏥 Hospivio - Full Stack Hospital Management System
+# 🏥 Hospivio - Full Stack Digital Hospital Platform
 
 Hospivio is a complete hospital management system designed to streamline patient appointments, doctor dashboards, user authentication, and administrative tasks.
 
